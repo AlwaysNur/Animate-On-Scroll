@@ -1,5 +1,5 @@
 # Animate-On-Scroll
-## [Live example](https://codepen.io/AlwaysNur/full/KKOYZwq)
+## [Live example](https://codepen.io/AlwaysNur/pen/KKOYZwq)
 ## Install
 * Download
 * Change The Example For Your Project
